@@ -19,10 +19,7 @@
 
 
 Структура базы данных
-
-
-
-!\[ER Diagram](screenshots/er\_diagram.png)
+<img width="680" height="710" alt="er_diagram" src="https://github.com/user-attachments/assets/fe01558e-2698-4c89-9fd2-5d43dcf5fe65" />
 
 
 
@@ -56,19 +53,18 @@
 
 *Топ-10 товаров по выручке*
 
-!\[Top Products](screenshots/query\_02\_top\_products.png)
+<img width="798" height="631" alt="query_02_top_products" src="https://github.com/user-attachments/assets/41bee7a9-570a-4859-a475-6f119963aa7d" />
 
 
 
 Топ-5 клиентов по сумме покупок
 
-!\[Top Customers](screenshots/query\_04\_top\_customers.png)
-
+<img width="897" height="503" alt="query_04_top_customers" src="https://github.com/user-attachments/assets/e2bfe3d5-cf42-41ad-8f92-ebfda902a721" />
 
 
 Динамика выручки по месяцам (CTE + LAG)
 
-!\[Monthly Growth](screenshots/query\_05\_monthly\_growth.png)
+<img width="888" height="831" alt="query_05_monthly_growth" src="https://github.com/user-attachments/assets/36182adc-9310-4ef2-9bb4-e84be35a200f" />
 
 
 
