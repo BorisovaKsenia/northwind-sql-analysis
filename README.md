@@ -18,8 +18,13 @@
 
 
 
+
 Структура базы данных
+
+
 <img width="680" height="710" alt="er_diagram" src="https://github.com/user-attachments/assets/fe01558e-2698-4c89-9fd2-5d43dcf5fe65" />
+
+
 
 
 
@@ -47,7 +52,9 @@
 
 
 
+
 Примеры результатов:
+
 
 
 
@@ -57,14 +64,20 @@
 
 
 
+
+
 Топ-5 клиентов по сумме покупок
 
 <img width="897" height="503" alt="query_04_top_customers" src="https://github.com/user-attachments/assets/e2bfe3d5-cf42-41ad-8f92-ebfda902a721" />
 
 
+
+
+
 Динамика выручки по месяцам (CTE + LAG)
 
 <img width="888" height="831" alt="query_05_monthly_growth" src="https://github.com/user-attachments/assets/36182adc-9310-4ef2-9bb4-e84be35a200f" />
+
 
 
 
